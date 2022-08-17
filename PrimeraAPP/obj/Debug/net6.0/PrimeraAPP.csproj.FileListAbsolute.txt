@@ -1,0 +1,15 @@
+C:\roadtodevops\C#\PrimeraAPP\bin\Debug\net6.0\PrimeraAPP.exe
+C:\roadtodevops\C#\PrimeraAPP\bin\Debug\net6.0\PrimeraAPP.deps.json
+C:\roadtodevops\C#\PrimeraAPP\bin\Debug\net6.0\PrimeraAPP.runtimeconfig.json
+C:\roadtodevops\C#\PrimeraAPP\bin\Debug\net6.0\PrimeraAPP.dll
+C:\roadtodevops\C#\PrimeraAPP\bin\Debug\net6.0\PrimeraAPP.pdb
+C:\roadtodevops\C#\PrimeraAPP\obj\Debug\net6.0\PrimeraAPP.csproj.AssemblyReference.cache
+C:\roadtodevops\C#\PrimeraAPP\obj\Debug\net6.0\PrimeraAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\roadtodevops\C#\PrimeraAPP\obj\Debug\net6.0\PrimeraAPP.AssemblyInfoInputs.cache
+C:\roadtodevops\C#\PrimeraAPP\obj\Debug\net6.0\PrimeraAPP.AssemblyInfo.cs
+C:\roadtodevops\C#\PrimeraAPP\obj\Debug\net6.0\PrimeraAPP.csproj.CoreCompileInputs.cache
+C:\roadtodevops\C#\PrimeraAPP\obj\Debug\net6.0\PrimeraAPP.dll
+C:\roadtodevops\C#\PrimeraAPP\obj\Debug\net6.0\refint\PrimeraAPP.dll
+C:\roadtodevops\C#\PrimeraAPP\obj\Debug\net6.0\PrimeraAPP.pdb
+C:\roadtodevops\C#\PrimeraAPP\obj\Debug\net6.0\PrimeraAPP.genruntimeconfig.cache
+C:\roadtodevops\C#\PrimeraAPP\obj\Debug\net6.0\ref\PrimeraAPP.dll
